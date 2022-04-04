@@ -12,4 +12,4 @@ vscode 의 확장 기능으로, Sass 또는 SCSS 구문으로 작성된 코드�
 - `Live Sass Compiler` 종료하려면 아까 `Watch Sass 클릭` 했던 곳에서 다시 클릭하면 종료됩니다.
 
 ## 주의 사항
-`style.css` 건드리지 말고 `style.scss` 파일에서 수정하면 CSS 파일이 자동으로 수정됩니다.
+`.css` 건드리지 말고 `.scss` 파일에서 수정하면 `.css` 파일이 자동으로 수정됩니다.
